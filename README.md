@@ -1,2 +1,2 @@
 # cs50
-This is my backup repo for my "Introduction to programming with python" course.
+This is a backup repo for my "Introduction to programming with python" course submissions.
